@@ -1,5 +1,5 @@
-# Big Data Science in Psychology and Cognitive Neuroscience (HS19)
+# UZH Big Data Science (HS19) Tutorial Code
 
-This is a collection of code for tutorials and programming assingments
+A collection of R code for tutorials and programming assingments for the Big Data Science in Psychology and Cognitive Neuroscience course at University of Zürich in 2019.
 
 Contact: christian.pfeiffer@uzh.ch
